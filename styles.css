@@ -6,3 +6,14 @@ align-items: center;
 text-align: center;
 
 }
+
+nav{
+    background: linear-gradient(green, rgb(199, 166, 166));
+}
+
+footer{
+    background: linear-gradient(green, rgb(199, 166, 166));
+}
+img{
+    border-radius: 2023px;
+}
